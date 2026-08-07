@@ -1,0 +1,8 @@
+Program Started
+Message from Function One
+Message from Function Two
+Program Ended
+Program Started
+Message from Function One
+Message from Function Two
+Program Ended

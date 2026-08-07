@@ -1,0 +1,3 @@
+Welcome to C++ Programming.
+This file is created using FileHandler class.
+Destructor automatically closes the file.
